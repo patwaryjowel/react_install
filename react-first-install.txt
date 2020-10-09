@@ -1,0 +1,5 @@
+React Fist Installing Work at CMD.
+1-> npm i -g greate-react-app
+2-> create-react-app project_name
+3-> cd project_name
+4-> npm start
